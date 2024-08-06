@@ -1,7 +1,7 @@
 # SQL Pizza Sales Project
 
 ## Project Lead: Tushar Soni
-![image](https://github.com/user-attachments/assets/9ba8c118-166a-4ba5-9cb6-934e49e6f3d8)
+![image](https://github.com/Tusharsoni69/SQL-Pizza-Sales-Project/blob/main/first_slide.png)
 
 This repository contains SQL scripts, documentation, and visualizations for a comprehensive analysis of pizza sales data. The project explores various aspects of sales, leveraging SQL queries to extract valuable insights for a fictional pizza company.
 
