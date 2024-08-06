@@ -22,3 +22,7 @@ Contributions to enhance the analysis, add new features, or improve documentatio
 - [LinkedIn](https://www.linkedin.com/in/tusharsoni2024/)
 - [GitHub Profile](https://github.com/Tusharsoni69)
 - [HackerRank Profile](https://www.hackerrank.com/tushar_2800)
+- [Pizza Sales Presentation (PDF)](Pizza_Sales_Presentation.pdf)
+- [Pizza Sales Presentation (PDF)](Pizza%20Sales%20PDF.pdf)
+
+
